@@ -11,8 +11,6 @@ public class Login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        // i bhave a problem
-        //i cant delete these line
-
+        // i have no problem
     }
 }
